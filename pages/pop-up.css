@@ -146,4 +146,8 @@ button:hover {
     letter-spacing: 0px;
     color: rgba(36, 39, 66, 0.6);
   }
+
+  .button {
+    width: 360px;
+  }
 }
