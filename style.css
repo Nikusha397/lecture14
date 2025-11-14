@@ -188,9 +188,13 @@ label {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    width: 500px;
+    width: 327px;
     border-radius: 0;
-    height: 1200px;
+    height: 812px;
+  }
+
+  body {
+    background-color: white;
   }
 
   .stats {
