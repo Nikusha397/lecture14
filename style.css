@@ -170,6 +170,7 @@ label {
 #email:focus {
   border: 1px solid rgba(36, 39, 66, 1);
   outline: none;
+  cursor: pointer;
 }
 
 .stats {
